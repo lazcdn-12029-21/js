@@ -5396,7 +5396,7 @@ Mamen Slot Thailand stabil dan responsif, mainnya lancar terus tanpa hambatan, f
     <div id="footer-extra-links-about" class="wt-content-toggle__body" aria-hidden="false">
         <ul class="wt-list-unstyled wt-text-left-xs wt-pl-sm-0 wt-pr-xs-1">
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
-                        <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://fk.unej.ac.id/about?ref=ftr">
+                        <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://fk.unej.ac.id/?ref=ftr">
                             
                             <span>SUKRO11, Inc.</span>
                         </a>
