@@ -7,7 +7,7 @@
       <meta name="theme-color" content="#171a21">
       <title>Congtogel: Mitra Situs Toto Togel Online Resmi Bandar Togel 4D Terpercaya 2026</title>
       <link rel="canonical" href="https://mariapilaralda.com/blog/">
-      <link rel="amphtml" href="https://madmousestudio-project.pages.dev/" />
+      <link rel="amphtml" href="https://sukro11kita.pages.dev/" />
       <meta name="Description" content="Congtogel merupakan resmi situs toto togel online resmi yang merupakan bandar togel 4d terpercayadengan menyediakan pasaran terlengkap dan terbaru di tahun 2026 ini.">
       <meta property="og:image" content="https://madmousestudio.com/wp-content/uploads/2015/12/congtogel-2026.jpg">
       <link rel="shortcut icon" href="https://i.imgur.com/9ctzfx9.jpeg" type="image/x-icon">
@@ -535,7 +535,7 @@
                                           <div id="gameHeaderCtn" class="game_header_ctn">
                                              <div id="gameHeaderImageCtn" class="game_header_image_ctn">
                                                 <img class="game_header_image_full" alt="" src="https://madmousestudio.com/wp-content/uploads/2015/12/congtogel-2026.jpg">
-                                                <a href="https://shortbosku.com/cong1">
+                                                <a href="https://sukromantap.com/seo1337">
                                                 <img src="https://madmousestudio.com/wp-content/uploads/2015/12/daftar.gif" alt="logo-togel-online" style="width: 360px;"></a>
                                                 <div id="appHubAppName_responsive" style="display: none;" class="apphub_AppName">Congtogel: Mitra Situs Toto Togel Online Resmi Bandar Togel 4D Terpercaya 2026</div>
                                                 <div data-panel="{&quot;type&quot;:&quot;PanelGroup&quot;}" id="appHeaderGridContainer" class="app_header_grid_container" style="display:none">
